@@ -7,12 +7,12 @@ Focused on building things that are elegant inside and out — from clean archit
 
 ### 🧠 Core Expertise
 
-- **System Architecture & Design** — from monoliths to microservices with a focus on scalability and maintainability  
-- **API Development & Integration** — RESTful and GraphQL services built for clarity, security, and performance  
-- **Database Architecture** — schema design, migrations, indexing, and optimization across SQL & NoSQL  
-- **Code Quality & Automation** — clean code principles, testing pipelines
-- **Performance & Scalability** — efficient caching, load balancing, and optimization at every layer  
-- **Full Project Lifecycle** — from planning and MVP delivery to production and long-term maintenance  
+- **System Architecture & Design**-from monoliths to microservices with a focus on scalability and maintainability  
+- **API Development & Integration** - RESTful and GraphQL services built for clarity, security, and performance  
+- **Database Architecture** - schema design, migrations, indexing, and optimization across SQL & NoSQL  
+- **Code Quality & Automation** - clean code principles, testing pipelines
+- **Performance & Scalability** - efficient caching, load balancing, and optimization at every layer  
+- **Full Project Lifecycle** - from planning and MVP delivery to production and long-term maintenance  
 
 ---
 
