@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Vard
 
-I'm a **Senior Full Stack Engineer** who loves crafting performant, scalable web apps and APIs.  
+I'm a **Senior Full Stack Developer** who loves crafting performant, scalable web apps and APIs.  
 Focused on building things that are elegant inside and out — from clean architecture to intuitive UIs.
 
 ---
