@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Vard
 
-I'm a **Full Stack JavaScript Engineer** who loves crafting performant, scalable web apps and APIs.  
+I'm a **Senior Full Stack Engineer** who loves crafting performant, scalable web apps and APIs.  
 Focused on building things that are elegant inside and out — from clean architecture to intuitive UIs.
 
 ---
@@ -51,7 +51,6 @@ Focused on building things that are elegant inside and out — from clean archit
 ![API%20Development](https://img.shields.io/badge/-API%20Development-000000?style=for-the-badge)
 ![Database%20Design](https://img.shields.io/badge/-Database%20Design-000000?style=for-the-badge)
 ![System%20Design](https://img.shields.io/badge/-System%20Design-000000?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/-Automation-000000?style=for-the-badge)
 ![Scalability](https://img.shields.io/badge/-Scalability-000000?style=for-the-badge)
 
