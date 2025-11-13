@@ -1,8 +1,10 @@
-# 👋 Hey there, I'm Vard
+# 👋 Hi, I’m Vard,
 
-I build web applications that are fast, stable, and designed to grow.
-My work sits at the intersection of clean engineering and clear user experience. I care as much about the structure behind the code as the polish on the screen.
-I like solving hard problems quietly and delivering things that just work — code that’s easy to reason about, interfaces that feel natural, and systems that can handle real-world scale.
+I build web applications that are fast, stable, and built to last.  
+I care about structure as much as style - clean architecture, predictable APIs, and interfaces that feel effortless to use.  
+I enjoy solving complex problems in simple ways, keeping codebases lean and teams moving fast.  
+Elegant systems aren’t just about how they look, they’re about how reliably they work behind the scenes.
+
 ---
 
 ### 🧠 Core Expertise
