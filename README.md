@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Vard
 
-I'm a **Senior Full Stack Developer** who loves crafting performant, scalable web apps and APIs.  
-Focused on building things that are elegant inside and out — from clean architecture to intuitive UIs.
-
+I build web applications that are fast, stable, and designed to grow.
+My work sits at the intersection of clean engineering and clear user experience. I care as much about the structure behind the code as the polish on the screen.
+I like solving hard problems quietly and delivering things that just work — code that’s easy to reason about, interfaces that feel natural, and systems that can handle real-world scale.
 ---
 
 ### 🧠 Core Expertise
